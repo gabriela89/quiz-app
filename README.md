@@ -1,5 +1,7 @@
 # quiz
 
+![Screenshot](images/quiz.png)
+
 ## Project setup
 ```
 npm install
